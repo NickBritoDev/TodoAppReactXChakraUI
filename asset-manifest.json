@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/todo-app-chakra-ui/static/js/main.c0bdd3a7.js",
-    "index.html": "/todo-app-chakra-ui/index.html",
-    "main.c0bdd3a7.js.map": "/todo-app-chakra-ui/static/js/main.c0bdd3a7.js.map"
+    "main.js": "/TodoAppReactXChakraUI/static/js/main.c0bdd3a7.js",
+    "index.html": "/TodoAppReactXChakraUI/index.html",
+    "main.c0bdd3a7.js.map": "/TodoAppReactXChakraUI/static/js/main.c0bdd3a7.js.map"
   },
   "entrypoints": [
     "static/js/main.c0bdd3a7.js"
